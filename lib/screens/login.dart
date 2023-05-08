@@ -13,10 +13,11 @@ class LoginScreen extends StatefulWidget {
 }
 
 class _LoginScreenState extends State<LoginScreen> {
-  String code = '';
+  TextEditingController _controller = TextEditingController();
   @override
   void initState() {
     super.initState();
+    _controller.text = '1000770903';
   }
 
   //call api to get the login url
@@ -27,7 +28,7 @@ class _LoginScreenState extends State<LoginScreen> {
       Uri.https('gateway-sop-dev.fpt.vn',
           '/auth-service/api/auth-service/sign-in/sale-club'),
       body: jsonEncode({
-        "AccountId": code,
+        "AccountId": _controller.text,
         "ValidateKey":
             "6c7c2b352c2aaacbf3db1b7d8daf90498a45a535182bceabe9eb73ceda387f24"
       }),
@@ -56,16 +57,11 @@ class _LoginScreenState extends State<LoginScreen> {
               'Enter your code',
             ),
             TextField(
-              obscureText: true,
               decoration: const InputDecoration(
                 border: OutlineInputBorder(),
                 labelText: 'Code',
               ),
-              onChanged: (value) {
-                setState(() {
-                  code = value;
-                });
-              },
+              controller: _controller,
             ),
             ElevatedButton(
               onPressed: () {
