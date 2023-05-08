@@ -206,6 +206,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "http",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/http-0.13.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "http_multi_server",
       "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/http_multi_server-3.2.1",
       "packageUri": "lib/",
@@ -512,7 +518,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-04-24T08:59:54.751526Z",
+  "generated": "2023-05-08T02:16:07.155821Z",
   "generator": "pub",
   "generatorVersion": "2.19.6"
 }
