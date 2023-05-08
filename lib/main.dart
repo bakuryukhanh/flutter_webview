@@ -116,13 +116,6 @@ isForMainFrame: ${error.isForMainFrame}
     final urlWithToken = Uri.parse('${host}/?token=$token');
     _controller.loadRequest(urlWithToken);
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Flutter WebView example'),
-        // This drop down menu demonstrates that Flutter widgets can be shown over the web view.
-        actions: <Widget>[
-          NavigationControls(webViewController: _controller),
-        ],
-      ),
       body: WebViewWidget(controller: _controller),
     );
   }
