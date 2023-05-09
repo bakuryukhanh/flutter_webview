@@ -3,13 +3,13 @@
   "packages": [
     {
       "name": "_fe_analyzer_shared",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-58.0.0",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-59.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "analyzer",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/analyzer-5.10.0",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/analyzer-5.11.1",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -21,7 +21,7 @@
     },
     {
       "name": "args",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/args-2.4.0",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/args-2.4.1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -81,7 +81,7 @@
     },
     {
       "name": "built_value",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/built_value-8.4.4",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/built_value-8.5.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -93,9 +93,9 @@
     },
     {
       "name": "checked_yaml",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/checked_yaml-2.0.2",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/checked_yaml-2.0.3",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.19"
     },
     {
       "name": "clock",
@@ -129,7 +129,7 @@
     },
     {
       "name": "dart_style",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/dart_style-2.3.0",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/dart_style-2.3.1",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -180,6 +180,12 @@
       "rootUri": "file:///home/khanh/snap/flutter/common/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_webview_pro",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/flutter_webview_pro-3.0.1+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
     },
     {
       "name": "frontend_server_client",
@@ -243,9 +249,9 @@
     },
     {
       "name": "json_annotation",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/json_annotation-4.8.0",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/json_annotation-4.8.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.19"
     },
     {
       "name": "logging",
@@ -291,19 +297,19 @@
     },
     {
       "name": "path_provider",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/path_provider-2.0.14",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/path_provider-2.0.15",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/path_provider_android-2.0.25",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/path_provider_android-2.0.27",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "path_provider_foundation",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/path_provider_foundation-2.2.2",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/path_provider_foundation-2.2.3",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -321,7 +327,7 @@
     },
     {
       "name": "path_provider_windows",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/path_provider_windows-2.1.5",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/path_provider_windows-2.1.6",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -351,25 +357,25 @@
     },
     {
       "name": "pub_semver",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/pub_semver-2.1.3",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/pub_semver-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "pubspec_parse",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/pubspec_parse-1.2.2",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/pubspec_parse-1.2.3",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "shelf",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/shelf-1.4.0",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/shelf-1.4.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "shelf_web_socket",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/shelf_web_socket-1.0.3",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/shelf_web_socket-1.0.4",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -470,32 +476,32 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "webview_flutter",
-      "rootUri": "../../",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
-      "name": "webview_flutter_android",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/webview_flutter_android-3.6.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
       "name": "webview_flutter_platform_interface",
       "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/webview_flutter_platform_interface-2.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
-      "name": "webview_flutter_wkwebview",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.4.0",
+      "name": "webview_pro_android",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/webview_pro_android-2.8.3+3",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "webview_pro_platform_interface",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/webview_pro_platform_interface-1.8.1+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "webview_pro_wkwebview",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/webview_pro_wkwebview-2.7.1+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
     },
     {
       "name": "win32",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/win32-3.1.4",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/win32-4.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -507,9 +513,9 @@
     },
     {
       "name": "yaml",
-      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/yaml-3.1.1",
+      "rootUri": "file:///home/khanh/.pub-cache/hosted/pub.dev/yaml-3.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "webview_flutter_example",
@@ -518,7 +524,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-05-08T02:16:07.155821Z",
+  "generated": "2023-05-09T08:11:37.477526Z",
   "generator": "pub",
   "generatorVersion": "2.19.6"
 }

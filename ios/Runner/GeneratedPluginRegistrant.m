@@ -18,10 +18,10 @@
 @import path_provider_foundation;
 #endif
 
-#if __has_include(<webview_flutter_wkwebview/FLTWebViewFlutterPlugin.h>)
-#import <webview_flutter_wkwebview/FLTWebViewFlutterPlugin.h>
+#if __has_include(<webview_pro_wkwebview/FLTWebViewFlutterPlugin.h>)
+#import <webview_pro_wkwebview/FLTWebViewFlutterPlugin.h>
 #else
-@import webview_flutter_wkwebview;
+@import webview_pro_wkwebview;
 #endif
 
 @implementation GeneratedPluginRegistrant
